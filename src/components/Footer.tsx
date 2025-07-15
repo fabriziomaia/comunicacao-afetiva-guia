@@ -11,11 +11,11 @@ const Footer = () => {
               <div className="w-8 h-8 bg-primary rounded-full flex items-center justify-center">
                 <Heart className="w-4 h-4 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold">eBook Comunicação</span>
+              <span className="text-xl font-bold">Método ComunicAção</span>
             </div>
             <p className="text-background/80 leading-relaxed">
-              Desenvolvendo conexões verdadeiras através da comunicação afetiva 
-              entre pais e filhos.
+              Metodologia profissional para fonoaudiólogas e educadores, transformando 
+              a prática clínica e educacional no desenvolvimento da linguagem infantil.
             </p>
           </div>
 

@@ -9,28 +9,28 @@ import { Card, CardContent } from "@/components/ui/card";
 const FAQSection = () => {
   const faqs = [
     {
-      question: "É só para quem tem filho com TDAH ou TEA?",
-      answer: "Não! O material foi pensado para todas as crianças — apenas contém orientações extras específicas para esses perfis. As estratégias são eficazes para qualquer criança entre 2 e 8 anos."
+      question: "É adequado para fonoaudiólogas recém-formadas?",
+      answer: "Sim! O Método ComunicAção foi especialmente desenvolvido para complementar a formação acadêmica com protocolos práticos e estratégias validadas para aplicação clínica imediata."
     },
     {
-      question: "Preciso de conhecimento prévio em fonoaudiologia?",
-      answer: "De jeito nenhum. Tudo é explicado de forma simples, humana e prática. O material foi desenvolvido especificamente para pais, mães e cuidadores, sem necessidade de conhecimento técnico."
+      question: "Professores podem aplicar as técnicas em sala de aula?",
+      answer: "Absolutamente! O método inclui adaptações específicas para ambiente educacional, com estratégias para implementação coletiva e individual no contexto escolar."
     },
     {
-      question: "O eBook oferece certificado?",
-      answer: "Não. Este é um eBook informativo e educativo, feito para aplicar no dia a dia. O foco está nos resultados práticos na comunicação com seu filho, não em certificações."
+      question: "O material oferece certificado profissional?",
+      answer: "Este é um eBook técnico-científico para estudo e aplicação prática. Para certificação profissional, oferecemos cursos presenciais e online complementares."
     },
     {
       question: "Como recebo o material após a compra?",
       answer: "O eBook é enviado automaticamente para seu email logo após a confirmação do pagamento. Você terá acesso vitalício ao material e poderá baixar quantas vezes quiser."
     },
     {
-      question: "As estratégias funcionam para todas as idades?",
-      answer: "O material é específico para crianças de 2 a 8 anos. As atividades e estratégias são adaptadas para diferentes fases do desenvolvimento dentro dessa faixa etária."
+      question: "Posso usar com crianças neurotípicas e atípicas?",
+      answer: "Sim! O Método ComunicAção é validado para crianças típicas e neurodivergentes (TDAH, TEA), com protocolos específicos para cada perfil e necessidade."
     },
     {
-      question: "Posso aplicar as orientações mesmo sem ser profissional da área?",
-      answer: "Sim! Todo o conteúdo foi criado pensando em pais, mães e cuidadores. As orientações são claras, seguras e podem ser aplicadas por qualquer pessoa que convive com a criança."
+      question: "O método tem respaldo científico?",
+      answer: "Sim! Todas as estratégias são baseadas em evidências científicas atuais, com referências bibliográficas e estudos de caso incluídos no material."
     }
   ];
 

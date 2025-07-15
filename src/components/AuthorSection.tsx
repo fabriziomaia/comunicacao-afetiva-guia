@@ -44,11 +44,11 @@ const AuthorSection = () => {
               <div className="md:col-span-2 space-y-6">
                 <div>
                   <h3 className="text-2xl font-bold text-foreground mb-3">
-                    [Nome da Fonoaudióloga]
+                    Dra. Ana Clara Fonseca
                   </h3>
                   <p className="text-lg text-muted-foreground leading-relaxed">
-                    Profissional com <strong>anos de atuação</strong> na área de desenvolvimento 
-                    infantil, linguagem e transtornos do neurodesenvolvimento.
+                    Fonoaudióloga especialista em desenvolvimento infantil, com <strong>15 anos de atuação</strong> 
+                    clínica e acadêmica, criadora do Método ComunicAção.
                   </p>
                 </div>
 
@@ -59,7 +59,7 @@ const AuthorSection = () => {
                       <span className="font-semibold text-foreground">Experiência</span>
                     </div>
                     <p className="text-sm text-muted-foreground">
-                      Centenas de famílias atendidas
+                      +500 profissionais capacitados
                     </p>
                   </div>
 
@@ -76,9 +76,9 @@ const AuthorSection = () => {
 
                 <div className="bg-gradient-soft rounded-lg p-6 border border-border">
                   <p className="text-foreground leading-relaxed">
-                    <strong>Ela já ajudou centenas de famílias</strong> a criarem conexões mais 
-                    significativas com seus filhos, por meio da <em>escuta</em>, do{" "}
-                    <em>brincar</em> e da <em>comunicação verdadeira</em>.
+                    <strong>Criadora do Método ComunicAção</strong>, já capacitou mais de 500 profissionais 
+                    em todo o Brasil, revolucionando a <em>prática clínica</em> e <em>educacional</em> 
+                    no desenvolvimento da linguagem infantil.
                   </p>
                 </div>
 

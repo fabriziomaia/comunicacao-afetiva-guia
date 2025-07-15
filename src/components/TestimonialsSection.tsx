@@ -4,15 +4,15 @@ import { Star, Quote } from "lucide-react";
 const TestimonialsSection = () => {
   const testimonials = [
     {
-      name: "Ana",
-      description: "mãe da Sofia (5 anos)",
-      text: "Achei que era só mais um material básico, mas me surpreendi. Minha filha começou a se comunicar melhor em poucas semanas!",
+      name: "Dra. Letícia",
+      description: "Fonoaudióloga - CRFa 1-2356",
+      text: "O Método ComunicAção revolucionou minha prática clínica. Os protocolos são claros e os resultados com as crianças são impressionantes!",
       rating: 5
     },
     {
-      name: "Carlos",
-      description: "pai do Lucas (com TDAH)",
-      text: "As orientações sobre rotina e comunicação mudaram o clima aqui em casa. Estou muito mais confiante.",
+      name: "Prof. Marina",
+      description: "Coordenadora Pedagógica",
+      text: "Implementamos as técnicas na escola e vimos melhora significativa na comunicação das crianças. Material indispensável para educadores!",
       rating: 5
     }
   ];
@@ -26,12 +26,12 @@ const TestimonialsSection = () => {
           </div>
           
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-            O que dizem as{" "}
-            <span className="text-primary">famílias que já aplicaram</span>
+            O que dizem os profissionais que{" "}
+            <span className="text-primary">aplicam o Método ComunicAção</span>
           </h2>
           
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Resultados reais de pais e mães que transformaram a comunicação com seus filhos.
+            Depoimentos de fonoaudiólogas e educadores que transformaram sua prática profissional.
           </p>
         </div>
 

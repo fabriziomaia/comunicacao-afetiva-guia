@@ -5,23 +5,23 @@ const TargetAudienceSection = () => {
   const audiences = [
     {
       icon: <Users className="w-8 h-8" />,
-      title: "Pais e mães",
-      description: "De crianças entre 2 e 8 anos que buscam estimular o desenvolvimento da comunicação"
+      title: "Fonoaudiólogas em formação",
+      description: "Estudantes e recém-formadas que buscam metodologia prática para desenvolvimento da linguagem"
     },
     {
       icon: <Baby className="w-8 h-8" />,
-      title: "Famílias com crianças neurodivergentes",
-      description: "Com diagnóstico ou suspeita de TDAH e/ou TEA que precisam de estratégias específicas"
+      title: "Especialistas em neurodivergência",
+      description: "Profissionais que atendem crianças com TDAH e/ou TEA e precisam de protocolos específicos"
     },
     {
       icon: <GraduationCap className="w-8 h-8" />,
-      title: "Educadores e cuidadores",
-      description: "Que querem ferramentas práticas e respeitosas para aplicar no dia a dia"
+      title: "Professores e coordenadores",
+      description: "Educadores que querem implementar técnicas de estimulação da linguagem em sala de aula"
     },
     {
       icon: <Heart className="w-8 h-8" />,
-      title: "Quem busca resultados reais",
-      description: "Sem precisar de mil cursos ou terapias caras, mas com métodos eficazes"
+      title: "Profissionais em consultórios",
+      description: "Que buscam metodologia validada e estruturada para aprimorar seus atendimentos"
     }
   ];
 
@@ -34,13 +34,13 @@ const TargetAudienceSection = () => {
           </div>
           
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-            Este material foi pensado{" "}
-            <span className="text-primary">especialmente para você</span>
+            Metodologia {" "}
+            <span className="text-primary">ComunicAção</span> para profissionais
           </h2>
           
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Se você se identifica com algum dos perfis abaixo, este eBook vai transformar 
-            a forma como você se comunica com as crianças.
+            Se você atua ou pretende atuar na área, este eBook vai transformar 
+            sua prática profissional com crianças.
           </p>
         </div>
 
@@ -68,16 +68,16 @@ const TargetAudienceSection = () => {
 
         <div className="bg-gradient-soft rounded-xl p-8 border border-border text-center">
           <h3 className="text-2xl font-bold text-foreground mb-4">
-            ⚡ Sem Certificado, Mas Com Muito Valor
+            🎓 Material de Apoio Profissional
           </h3>
           <p className="text-lg text-muted-foreground leading-relaxed max-w-3xl mx-auto">
-            Este não é um curso, nem uma formação com certificado. É um{" "}
-            <strong>guia direto ao ponto</strong>, feito para quem precisa de{" "}
-            <strong>resultados reais, hoje</strong>, no tempo que tem.
+            Este é um{" "}
+            <strong>eBook técnico-científico</strong> para complementar sua formação e{" "}
+            <strong>aprimorar sua prática clínica</strong> com metodologia validada.
           </p>
           
           <div className="mt-6 inline-flex items-center gap-2 bg-soft-orange px-4 py-2 rounded-full text-sm font-medium">
-            📲 Material enviado imediatamente no seu e-mail
+            📲 Material profissional enviado imediatamente
           </div>
         </div>
       </div>

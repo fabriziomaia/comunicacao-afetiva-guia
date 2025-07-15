@@ -18,9 +18,8 @@ const CTASection = () => {
           </div>
           
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-            Garante agora o seu eBook e{" "}
-            <span className="text-primary">transforme a comunicação</span>{" "}
-            com seu filho
+            Domine o Método{" "}
+            <span className="text-primary">ComunicAção hoje mesmo</span>
           </h2>
         </div>
 
@@ -53,8 +52,8 @@ const CTASection = () => {
                 </div>
 
                 <p className="text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto">
-                  Por apenas R$[XX], você tem acesso vitalício ao material completo e 
-                  pode aplicar tudo no seu tempo, respeitando o ritmo da sua família.
+                  Garanta agora seu eBook profissional e transforme sua prática clínica 
+                  e educacional com metodologia validada e protocolos estruturados.
                 </p>
               </div>
 
@@ -67,7 +66,7 @@ const CTASection = () => {
                   className="text-xl px-12 py-8 w-full md:w-auto"
                 >
                   <BookOpen className="w-6 h-6" />
-                  QUERO ACESSAR O EBOOK AGORA!
+                  QUERO DOMINAR O MÉTODO COMUNICAÇÃO!
                 </Button>
                 
                 <div className="flex items-center justify-center gap-2 text-sm text-muted-foreground">

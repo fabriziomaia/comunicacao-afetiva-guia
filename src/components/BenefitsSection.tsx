@@ -5,8 +5,8 @@ const BenefitsSection = () => {
   const benefits = [
     {
       icon: <PlayCircle className="w-6 h-6" />,
-      title: "Atividades práticas e lúdicas",
-      description: "Para crianças de 2 a 8 anos, com brincadeiras que estimulam naturalmente"
+      title: "Protocolos de intervenção estruturados",
+      description: "Para crianças de 2 a 8 anos, baseados em evidências científicas"
     },
     {
       icon: <Brain className="w-6 h-6" />,
@@ -15,13 +15,13 @@ const BenefitsSection = () => {
     },
     {
       icon: <Users className="w-6 h-6" />,
-      title: "Orientações simples",
-      description: "Que qualquer cuidador pode aplicar em casa, sem conhecimento técnico"
+      title: "Técnicas de aplicação profissional",
+      description: "Para uso em consultórios, clínicas e ambientes educacionais"
     },
     {
       icon: <Clock className="w-6 h-6" />,
-      title: "Dicas de rotina",
-      description: "Como criar uma comunicação afetiva no dia a dia da família"
+      title: "Abordagem multidisciplinar",
+      description: "Integração entre fonoaudiologia, psicologia e pedagogia"
     },
     {
       icon: <Heart className="w-6 h-6" />,
@@ -44,13 +44,13 @@ const BenefitsSection = () => {
           </div>
           
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-            O que você vai encontrar neste{" "}
-            <span className="text-primary">material transformador</span>
+            Metodologia {" "}
+            <span className="text-primary">ComunicAção</span> para profissionais
           </h2>
           
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Um guia completo com estratégias práticas, atividades lúdicas e orientações 
-            baseadas em evidências científicas para estimular o desenvolvimento da comunicação.
+            Conteúdo técnico-científico apresentado de forma didática, com protocolos 
+            práticos e estratégias validadas para aplicação profissional.
           </p>
         </div>
 
@@ -81,13 +81,13 @@ const BenefitsSection = () => {
 
         <div className="bg-soft-orange rounded-xl p-8 border border-warning/20 text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
-            <span className="text-2xl">🛑</span>
+            <span className="text-2xl">🎯</span>
             <h3 className="text-xl font-bold text-foreground">
-              Sem fórmulas mágicas. Sem linguagem técnica.
+              Formação Profissional Especializada
             </h3>
           </div>
           <p className="text-muted-foreground text-lg">
-            Apenas conteúdo acessível e com embasamento real.
+            Conteúdo técnico-científico estruturado para aprimorar sua prática clínica e educacional.
           </p>
         </div>
       </div>

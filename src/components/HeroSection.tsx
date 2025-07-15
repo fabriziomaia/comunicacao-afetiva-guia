@@ -23,25 +23,25 @@ const HeroSection = () => {
               </div>
               
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
-                Desperte o{" "}
-                <span className="text-primary">Potencial da Comunicação</span>{" "}
-                do Seu Filho
+                Domine o Método{" "}
+                <span className="text-primary">ComunicAção</span>{" "}
+                para Desenvolvimento da Linguagem Infantil
               </h1>
               
               <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed">
-                Um método simples, afetivo e validado por especialistas para estimular
-                a linguagem de crianças neurotípicas e neurodivergentes
+                eBook profissional para fonoaudiólogas em formação e educadores. 
+                Metodologia validada com estratégias práticas para estimulação da comunicação.
               </p>
             </div>
 
             <div className="bg-soft-orange rounded-lg p-6 border border-warning/20">
               <h2 className="text-lg font-semibold text-foreground mb-3">
-                Seu filho tem dificuldades para se expressar?
+                Quer aprimorar sua prática profissional?
               </h2>
               <p className="text-muted-foreground">
-                Este guia é para você que quer estimular a linguagem{" "}
-                <strong>sem pressão</strong>, com leveza e{" "}
-                <strong>resultados reais</strong>.
+                Método estruturado para aplicação clínica e educacional, com{" "}
+                <strong>técnicas validadas</strong> para crianças neurotípicas e{" "}
+                <strong>neurodivergentes</strong>.
               </p>
             </div>
 
