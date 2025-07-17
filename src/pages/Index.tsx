@@ -3,6 +3,7 @@ import BenefitsSection from "@/components/BenefitsSection";
 import AuthorSection from "@/components/AuthorSection";
 import TargetAudienceSection from "@/components/TargetAudienceSection";
 import TestimonialsSection from "@/components/TestimonialsSection";
+import VideoSection from "@/components/VideoSection";
 import CTASection from "@/components/CTASection";
 import FAQSection from "@/components/FAQSection";
 import Footer from "@/components/Footer";
@@ -12,6 +13,7 @@ const Index = () => {
     <div className="min-h-screen">
       <HeroSection />
       <BenefitsSection />
+      <VideoSection />
       <AuthorSection />
       <TargetAudienceSection />
       <TestimonialsSection />

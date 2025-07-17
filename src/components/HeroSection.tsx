@@ -24,7 +24,7 @@ const HeroSection = () => {
               
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
                 Domine o Método{" "}
-                <span className="text-primary">ComunicAção</span>{" "}
+                <span className="text-primary">LinguagemAtiva</span>{" "}
                 para Desenvolvimento da Linguagem Infantil
               </h1>
               

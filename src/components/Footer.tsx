@@ -11,7 +11,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-primary rounded-full flex items-center justify-center">
                 <Heart className="w-4 h-4 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold">Método ComunicAção</span>
+              <span className="text-xl font-bold">Método LinguagemAtiva</span>
             </div>
             <p className="text-background/80 leading-relaxed">
               Metodologia profissional para fonoaudiólogas e educadores, transformando 
@@ -47,7 +47,7 @@ const Footer = () => {
 
         <div className="border-t border-background/20 mt-8 pt-8 text-center">
           <p className="text-background/60 text-sm">
-            © 2024 eBook Comunicação. Todos os direitos reservados. 
+            © 2024 Método LinguagemAtiva. Todos os direitos reservados. 
             Feito com <Heart className="w-4 h-4 inline text-primary" /> para transformar vidas.
           </p>
         </div>

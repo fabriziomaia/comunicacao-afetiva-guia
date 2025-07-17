@@ -48,7 +48,7 @@ const AuthorSection = () => {
                   </h3>
                   <p className="text-lg text-muted-foreground leading-relaxed">
                     Fonoaudióloga especialista em desenvolvimento infantil, com <strong>15 anos de atuação</strong> 
-                    clínica e acadêmica, criadora do Método ComunicAção.
+                    clínica e acadêmica, criadora do Método LinguagemAtiva.
                   </p>
                 </div>
 
@@ -76,7 +76,7 @@ const AuthorSection = () => {
 
                 <div className="bg-gradient-soft rounded-lg p-6 border border-border">
                   <p className="text-foreground leading-relaxed">
-                    <strong>Criadora do Método ComunicAção</strong>, já capacitou mais de 500 profissionais 
+                    <strong>Criadora do Método LinguagemAtiva</strong>, já capacitou mais de 500 profissionais 
                     em todo o Brasil, revolucionando a <em>prática clínica</em> e <em>educacional</em> 
                     no desenvolvimento da linguagem infantil.
                   </p>

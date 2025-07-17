@@ -19,7 +19,7 @@ const CTASection = () => {
           
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
             Domine o Método{" "}
-            <span className="text-primary">ComunicAção hoje mesmo</span>
+            <span className="text-primary">LinguagemAtiva hoje mesmo</span>
           </h2>
         </div>
 
@@ -66,7 +66,7 @@ const CTASection = () => {
                   className="text-xl px-12 py-8 w-full md:w-auto"
                 >
                   <BookOpen className="w-6 h-6" />
-                  QUERO DOMINAR O MÉTODO COMUNICAÇÃO!
+                  QUERO DOMINAR O MÉTODO LINGUAGEMATIVA!
                 </Button>
                 
                 <div className="flex items-center justify-center gap-2 text-sm text-muted-foreground">

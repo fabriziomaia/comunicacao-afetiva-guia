@@ -35,7 +35,7 @@ const TargetAudienceSection = () => {
           
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
             Metodologia {" "}
-            <span className="text-primary">ComunicAção</span> para profissionais
+            <span className="text-primary">LinguagemAtiva</span> para profissionais
           </h2>
           
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">

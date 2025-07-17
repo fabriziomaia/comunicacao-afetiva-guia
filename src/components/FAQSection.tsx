@@ -10,7 +10,7 @@ const FAQSection = () => {
   const faqs = [
     {
       question: "É adequado para fonoaudiólogas recém-formadas?",
-      answer: "Sim! O Método ComunicAção foi especialmente desenvolvido para complementar a formação acadêmica com protocolos práticos e estratégias validadas para aplicação clínica imediata."
+      answer: "Sim! O Método LinguagemAtiva foi especialmente desenvolvido para complementar a formação acadêmica com protocolos práticos e estratégias validadas para aplicação clínica imediata."
     },
     {
       question: "Professores podem aplicar as técnicas em sala de aula?",
@@ -26,7 +26,7 @@ const FAQSection = () => {
     },
     {
       question: "Posso usar com crianças neurotípicas e atípicas?",
-      answer: "Sim! O Método ComunicAção é validado para crianças típicas e neurodivergentes (TDAH, TEA), com protocolos específicos para cada perfil e necessidade."
+      answer: "Sim! O Método LinguagemAtiva é validado para crianças típicas e neurodivergentes (TDAH, TEA), com protocolos específicos para cada perfil e necessidade."
     },
     {
       question: "O método tem respaldo científico?",

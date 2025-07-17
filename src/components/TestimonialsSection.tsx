@@ -6,7 +6,7 @@ const TestimonialsSection = () => {
     {
       name: "Dra. Letícia",
       description: "Fonoaudióloga - CRFa 1-2356",
-      text: "O Método ComunicAção revolucionou minha prática clínica. Os protocolos são claros e os resultados com as crianças são impressionantes!",
+      text: "O Método LinguagemAtiva revolucionou minha prática clínica. Os protocolos são claros e os resultados com as crianças são impressionantes!",
       rating: 5
     },
     {
@@ -27,7 +27,7 @@ const TestimonialsSection = () => {
           
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
             O que dizem os profissionais que{" "}
-            <span className="text-primary">aplicam o Método ComunicAção</span>
+            <span className="text-primary">aplicam o Método LinguagemAtiva</span>
           </h2>
           
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
